@@ -1,0 +1,23 @@
+# Site settings
+title:          "My Playlist | Abhishek Balam"
+description:    "Songs that I am listening to these days on loop."
+baseurl:        ""
+url:            "https://playlist.abhishekbalam.xyz/"
+
+exclude: [old_site]
+# Author
+author:
+  name:         Abhishek Balam
+  url:          https://abhishekbalam.xyz
+  email:        abhishekbalam96@gmail.com
+
+defaults:
+ - scope:
+    path: "assets/music"
+   values:
+    music: true
+
+# Build settings
+markdown: kramdown
+
+port: 4000

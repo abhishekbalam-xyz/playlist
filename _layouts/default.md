@@ -7,7 +7,7 @@
 	<div class="limiter">
 		<div class="container-table100">
 			<div class="wrap-table100">
-				<h1 style="text-align: center;color: #FFF" class="table"> Playlist of songs that I think you'll like</h1>
+				<h1 style="text-align: center;color: #FFF" class="table"> My Playlist</h1>
 				<h5  style="text-align: center;color: #FFF" class="table">A list of awesome songs that I'm listening to these days..</h5>
 				<h4 style="text-align: center;color: #FFF" class="table">[Last Updated: {{ page.date | date: "%B, %Y"}}]</h4>
 				<div class="table100">
